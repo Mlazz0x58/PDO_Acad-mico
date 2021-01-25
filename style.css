@@ -1,0 +1,50 @@
+
+.tb{
+    width:100%;
+    
+}
+
+.container{
+    text-align: justify;
+    font-family: verdana;
+    font-size: 20px;
+
+}
+
+.container1{
+    text-align: justify;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.bttom{
+    
+    background-color: dodgerblue;
+    text-decoration: none;
+    color: white;
+    border: 5px solid dodgerblue;
+    padding-bottom: 3px;
+    border-radius: 4px;
+    
+}
+
+.bttom1{
+    font-family: verdana;
+    font-size: 20px;
+    background-color: dodgerblue;
+    text-decoration: none;
+    color: white;
+    border: 5px solid dodgerblue;
+    padding-bottom: 3px;
+    border-radius: 4px;
+}
+
+.in{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
