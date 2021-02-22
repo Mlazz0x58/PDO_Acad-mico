@@ -1,5 +1,5 @@
 # PDO_Acadêmico
 Crud com a classe PDO para fins acadêmicos
 
-====== AVISO ======
-Este código é vulnerável!!!!!!
+Cadastro de nome, e-mail e senha.
+Edição e exclusão de nome e e-mail.
